@@ -31,7 +31,7 @@ if __name__ == "__main__":
     queue.append(1)
     queue.append(2)
     
-    # dequeue
+    # deque
     print(f"Queue.deque: {queue.deque()}")
     
     # queue.__str__()
